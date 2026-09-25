@@ -70,6 +70,4 @@ History:
 
 `/api/tickets/{id}/history`
 
-## Note
 
-This project was developed as part of a technical assignment for Edumerge Solutions.
